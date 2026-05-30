@@ -16,7 +16,7 @@ The project is split into two phases:
 
 The model was trained on a synthetic dataset (Lego bulldozer). To accommodate local hardware constraints, the rendering equation was modified with a dynamic white-background composite, allowing for successful volumetric convergence within a strict 50-iteration budget.
 
-*(Add your Phase 1 image here by dragging and dropping it into the GitHub web editor, or linking it like this: `![Phase 1](assets/phase1_views.png)`)*
+*assets/Screenshot 2026-03-24 203914.png*
 
 ## Phase 2 Results: Positional Encoding Ablation
 
