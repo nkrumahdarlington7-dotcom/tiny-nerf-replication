@@ -24,7 +24,7 @@ Standard MLPs inherently act as low-pass filters, struggling to learn high-frequ
 
 As shown below, the ablated model fails to capture structural fidelity, rendering a smooth, undefined spatial average. This empirically proves that mapping spatial coordinates to a higher-dimensional space is a strict requirement for high-fidelity neural rendering.
 
-*[(Add your Phase 2 ablated image here: `![Phase 2](assets/phase2_ablated.png)`)](https://github.com/nkrumahdarlington7-dotcom/tiny-nerf-replication/blob/main/assets/Screenshot%202026-03-24%20210224.png)*
+*https://github.com/nkrumahdarlington7-dotcom/tiny-nerf-replication/blob/main/assets/Screenshot%202026-03-24%20210224.png*
 
 ## Technical Implementation
 
